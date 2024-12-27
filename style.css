@@ -22,7 +22,7 @@ p {
 }
 
 .lakate {
-	padding: 30px 0;
+	padding: 80px 10px;
 	background-color: rgba(250, 129, 0, 0.8);
 }
 
@@ -37,7 +37,6 @@ p {
 	justify-content: center;
 	align-items: center;
 	gap: 100px;
-	padding: 0 10px;
 }
 
 .presentation h1 {
@@ -46,7 +45,7 @@ p {
 	padding: 10px;
 	background-color: #ffc77d;
 	color: #fa8100;
-    border-radius: 5px;
+	border-radius: 5px;
 }
 
 .presentation p {
@@ -108,7 +107,7 @@ p {
 	padding: 10px;
 	background-color: #ffc77d;
 	color: #fa8100;
-    border-radius: 5px;
+	border-radius: 5px;
 }
 
 .block p {
@@ -135,7 +134,7 @@ p {
 	padding: 10px;
 	background-color: #fa8100;
 	color: white;
-    border-radius: 5px;
+	border-radius: 5px;
 }
 
 form {
@@ -156,9 +155,9 @@ form label {
 form input,
 form textarea {
 	padding: 10px;
-    border: none;
-    border-radius: 10px;
-    font-size: 1.1rem;
+	border: none;
+	border-radius: 10px;
+	font-size: 1.1rem;
 }
 
 form input {
