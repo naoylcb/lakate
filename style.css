@@ -235,7 +235,7 @@ footer {
 	font-size: 1rem;
 }
 
-footer p {
+footer span {
 	margin-right: 20px;
 }
 
@@ -310,5 +310,20 @@ footer a:hover {
 	form textarea,
 	form button {
 		font-size: 1rem;
+	}
+
+	footer {
+		flex-direction: column;
+	}
+
+	footer span {
+		margin-right: 0;
+		margin-bottom: 10px;
+	}
+
+	footer a {
+		padding: 10px 0;
+		border-left: 0;
+		border-top: 1px solid black;
 	}
 }
